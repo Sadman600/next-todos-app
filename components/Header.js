@@ -14,6 +14,9 @@ const Header = () => {
                         <li className="nav-item">
                             <Link href="/"><a className="nav-link active" aria-current="page" >Home</a></Link>
                         </li>
+                        <li className="nav-item">
+                            <Link href="/counter"><a className="nav-link active" aria-current="page" >Counter</a></Link>
+                        </li>
                     </ul>
                 </div>
             </div>
